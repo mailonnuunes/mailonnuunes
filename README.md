@@ -1,8 +1,8 @@
 ## Oie!! Eu sou o Mailon Azevedo!👋
 
 
-- 💻 atualmente sou freelancer back-end .NET
-- 📚 atualmente cursando pós graduação em arquitetura e desenvolvimento .NET na FIAP
+- 💻 atualmente sou bugbounter e freelancer Node
+- 📚 atualmente cursando pós graduação em Offensive Cyber Security - Red Team Operation
 - 📧 me contate pelo email: mailonnunes2016@gmail.com
 
 ![Mailon Status](https://github-readme-stats.vercel.app/api?username=mailonnuunes&show_icons=true&theme=tokyonight)
