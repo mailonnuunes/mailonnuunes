@@ -1,7 +1,7 @@
 ## Oie!! Eu sou o Mailon Azevedo!👋
 
 
-- 💻 atualmente sou bugbounter e freelancer Node
+- 💻 atualmente sou bugbounter e freelancer .NET
 - 📚 atualmente cursando pós graduação em Offensive Cyber Security - Red Team Operation
 - 📧 me contate pelo email: mailonnunes2016@gmail.com
 
